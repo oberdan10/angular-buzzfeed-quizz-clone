@@ -166,6 +166,14 @@
         {"id": 1, "name":"A moralidade é relativa e pode ser interpretada de maneiras diferentes dependendo das circunstâncias", "alias":"A"},
         {"id": 2, "name":"A moralidade é absoluta e existem princípios universais que devem guiar nossas ações", "alias":"B"}
       ]
+    },
+    {
+      "id":21,
+      "question": "Como você reage diante de situações de injustiça?",
+      "options":[
+        {"id": 1, "name":"Eu tento tirar vantagem da situação, se beneficiando da injustiça", "alias":"A"},
+        {"id": 2, "name":"Eu me posiciono contra a injustiça e tento corrigi-la, mesmo que isso signifique enfrentar desafios", "alias":"B"}
+      ]
     }
   ],
   "results":{
