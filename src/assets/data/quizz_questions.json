@@ -46,6 +46,126 @@
         {"id": 1, "name":"O Terrivel", "alias":"A"},
         {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
       ]
+    },
+    {
+      "id":6,
+      "question": "Como você lidaria com um grande dilema ético?",
+      "options":[
+        {"id": 1, "name":"Seguiria meus próprios interesses, independentemente das consequências para os outros", "alias":"A"},
+        {"id": 2, "name":"Escolheria fazer o que é moralmente correto, mesmo que isso signifique sacrificar meus próprios desejos", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Como você reagiria a um desafio de grande perigo?",
+      "options":[
+        {"id": 1, "name":"Eu me arriscaria e tentaria superar o desafio sozinho", "alias":"A"},
+        {"id": 2, "name":"Eu buscaria ajuda e trabalho em equipe para enfrentar o desafio de forma mais segura e eficaz", "alias":"B"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Qual é o seu ponto de vista sobre a justiça?",
+      "options":[
+        {"id": 1, "name":"A justiça é relativa e pode ser moldada de acordo com meus interesses", "alias":"A"},
+        {"id": 2, "name":"A justiça é absoluta e deve ser aplicada igualmente a todos, independentemente das circunstâncias", "alias":"B"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "O que motiva suas ações?",
+      "options":[
+        {"id": 1, "name":"O desejo de poder e controle sobre os outros", "alias":"A"},
+        {"id": 2, "name":"O desejo de ajudar e proteger os outros", "alias":"B"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "Como você enxerga as regras sociais?",
+      "options":[
+        {"id": 1, "name":"Como algo que pode ser manipulado para meu próprio benefício", "alias":"A"},
+        {"id": 2, "name":"Como um conjunto de normas importantes para o funcionamento harmonioso da sociedade", "alias":"B"}
+      ]
+    },
+    {
+      "id":11,
+      "question": "Qual é a sua atitude em relação ao perdão?",
+      "options":[
+        {"id": 1, "name":"O perdão é uma fraqueza e deve ser evitado", "alias":"A"},
+        {"id": 2, "name":"O perdão é uma virtude e uma parte importante da cura e do crescimento", "alias":"B"}
+      ]
+    },
+    {
+      "id":12,
+      "question": "Como você lida com a autoridade?",
+      "options":[
+        {"id": 1, "name":"Eu desafio e questiono a autoridade sempre que possível", "alias":"A"},
+        {"id": 2, "name":"Eu respeito a autoridade e reconheço sua importância na manutenção da ordem e segurança", "alias":"B"}
+      ]
+    },
+    {
+      "id":13,
+      "question": "Você se vê como alguém mais racional ou emocional?",
+      "options":[
+        {"id": 1, "name":"Racional - Eu tomo decisões baseadas na lógica e no pensamento crítico", "alias":"B"},
+        {"id": 2, "name":"Emocional - Eu confio mais nos meus sentimentos e intuições ao tomar decisões", "alias":"A"}
+      ]
+    },
+    {
+      "id":14,
+      "question": "Como você lida com o fracasso?",
+      "options":[
+        {"id": 1, "name":"Eu culpo os outros ou as circunstâncias e não assumo responsabilidade", "alias":"A"},
+        {"id": 2, "name":"Eu vejo o fracasso como uma oportunidade de aprendizado e crescimento pessoal", "alias":"B"}
+      ]
+    },
+    {
+      "id":15,
+      "question": "Qual é a sua opinião sobre o uso de violência para alcançar objetivos?",
+      "options":[
+        {"id": 1, "name":"A violência é uma ferramenta válida e eficaz para impor a minha vontade", "alias":"A"},
+        {"id": 2, "name":"A violência deve ser evitada sempre que possível e só usada como último recurso em situações extremas", "alias":"B"}
+      ]
+    },
+    {
+      "id":16,
+      "question": "Você prefere trabalhar sozinho ou em equipe?",
+      "options":[
+        {"id": 1, "name":"Eu prefiro trabalhar sozinho, assim tenho total controle sobre as situações", "alias":"A"},
+        {"id": 2, "name":"Eu prefiro trabalhar em equipe, pois reconheço a força na colaboração e na diversidade de habilidades", "alias":"B"}
+      ]
+    },
+    {
+      "id":17,
+      "question": "Como você reage a críticas?",
+      "options":[
+        {"id": 1, "name":"Eu respondo com hostilidade e recuso a aceitar qualquer falha", "alias":"A"},
+        {"id": 2, "name":"Eu vejo as críticas como uma oportunidade para melhorar e crescer", "alias":"B"}
+      ]
+    },
+    {
+      "id":18,
+      "question": "Você costuma planejar cuidadosamente suas ações ou prefere agir impulsivamente?",
+      "options":[
+        {"id": 1, "name":"Eu prefiro agir impulsivamente, sem muita reflexão prévia", "alias":"A"},
+        {"id": 2, "name":"Eu gosto de planejar cuidadosamente minhas ações, considerando todas as possíveis consequências", "alias":"B"}
+      ]
+    },
+    {
+      "id":19,
+      "question": "Qual é a sua visão sobre o poder?",
+      "options":[
+        {"id": 1, "name":"O poder é algo que deve ser conquistado a qualquer custo, mesmo que signifique prejudicar os outros", "alias":"A"},
+        {"id": 2, "name":"O poder é uma responsabilidade e deve ser usado para o bem comum e o benefício dos outros", "alias":"B"}
+      ]
+    },
+    {
+      "id":20,
+      "question": "Como você enxerga a moralidade?",
+      "options":[
+        {"id": 1, "name":"A moralidade é relativa e pode ser interpretada de maneiras diferentes dependendo das circunstâncias", "alias":"A"},
+        {"id": 2, "name":"A moralidade é absoluta e existem princípios universais que devem guiar nossas ações", "alias":"B"}
+      ]
     }
   ],
   "results":{
